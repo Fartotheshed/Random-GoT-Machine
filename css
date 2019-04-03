@@ -1,0 +1,34 @@
+body {
+  background-color: #050505;
+}
+
+h3 {
+  text-align: center;
+  font-size: 60px;
+  color:#FDFEFE
+}
+h5 {}
+
+#getGoT {
+  text-align: center;
+}
+
+
+#description {
+  background-color: #A9ADAD;
+  font-family: 'Georgia';
+  font-size: 40px;
+  padding: 250px 100px 100px 100px;
+  text-align: center;
+}
+
+.GoT {
+  
+  border-radius: 15%;
+  border-width: 10px;
+  width:304px;
+  height:225px;
+  position:absolute;
+  right:490px;
+  top:250px
+}
